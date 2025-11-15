@@ -73,3 +73,4 @@ Then simply invoke the executable:
 ```bash
 lines.exe -i <iterations> -s <size> [options]
 ```
+![iterations: 1,000,000, line size: 60px](https://github.com/Jerrif/Lines/blob/78480350abbae6634d46ce462c5284d3dac32a5d/output/forest_temple%20i%3D1m%20s%3D60.jpg?raw=true "iterations: 1,000,000, line size: 60px")
