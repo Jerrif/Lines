@@ -9,8 +9,9 @@ A for-fun image processing tool written in C. This started as my attempt at a pr
 * Repeat many thousands of times until you end up with an image resembling the source image (but cooler!)
 
 
-https://github.com/user-attachments/assets/9fc13ee5-512e-49fb-b378-dbbbd964b9e1
+<sub>(The following video does not display properly in Firefox, works in Chromium based browsers)</sub>
 
+https://github.com/user-attachments/assets/9fc13ee5-512e-49fb-b378-dbbbd964b9e1
 
 Note: the intention is not to perfectly recreate the source image; the random sampling is the fun part!
 
